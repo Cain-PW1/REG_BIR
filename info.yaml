@@ -43,10 +43,10 @@ pinout:
   uo[7]: "O7"
 
   # Bidirectional pins
-  uio[0]: "CLK"
-  uio[1]: "RES"
-  uio[2]: "OP0"
-  uio[3]: "OP1"
+  uio[0]: "OP0"
+  uio[1]: "OP1"
+  uio[2]: "RES"
+  uio[3]: "CLK"
   uio[4]: ""
   uio[5]: ""
   uio[6]: ""
