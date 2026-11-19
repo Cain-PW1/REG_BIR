@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Registro de desplazacmiento bidirecicional
 
 ## How to test
 
-Explain how to use your project
+Con OP se seleciona la accion a realizar
 
 ## External hardware
 
