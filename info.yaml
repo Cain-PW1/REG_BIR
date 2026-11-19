@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
 project:
   title:        "REG_DES_BI_RTL"      # Project title
-  author:       "CAIN"      # Your name
+  author:       "CAIN PEREZ"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Bidirectional shift register with parallel load"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
